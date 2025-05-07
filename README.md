@@ -42,7 +42,5 @@
 ---
 
 ## How to use 📜 ##
-
-```É recomendável ler as validações!
+`É recomendável ler as validações!`
 [Clique aqui para usar](https://eupedrobarbosa03.github.io/student-situation/)
-```
