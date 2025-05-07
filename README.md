@@ -1,4 +1,4 @@
-## Academy Control 🏋️ - Sistema desenvolvido por [Pedro Henrique](https://github.com/eupedrobarbosa03). ##
+## Student Situation 🏋️ - Sistema desenvolvido por [Pedro Henrique](https://github.com/eupedrobarbosa03). ##
 
 ```Project Page -> 🔗``` [Student Situation](https://eupedrobarbosa03.github.io/student-situation/)
 
@@ -35,8 +35,8 @@
 ## Validations ✅ ##
 
 ```
-- ✅ Student name: Não pode conter números ou estar vazio".
-- ✅ Inputs de inserir notas: Não pode ser menor que 0 ou maior que 10, além disso claro, não pode ser diferente de número.
+- ✅ Student name: Não pode conter números ou estar vazio.
+- ✅ Inputs de inserir notas: Não pode ser menor que 0 ou maior que 10, além disso, claro, não pode ser diferente de número.
 ```
 
 ---
