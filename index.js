@@ -121,7 +121,7 @@ class Student {
                 list.appendChild(li);
                 li.classList.add("reproved");
                 break;
-            default: console.error(`...`);
+            default: console.error(`...`); break;
         };
 
         cleanInputs();
